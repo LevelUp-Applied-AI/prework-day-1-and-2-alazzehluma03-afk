@@ -28,3 +28,12 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+I am [Luma Alazzeh], a student in the AI.SPIRE program. This repository is dedicated to setting up my development environment and documenting my progress during the pre-work phase.
+
+## Setup
+
+```bash
+git clone [https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-alazzehluma03-afk.git](https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-alazzehluma03-afk.git)
+cd prework-day-1-and-2-alazzehluma03-afk
