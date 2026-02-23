@@ -28,8 +28,8 @@
 ] Screenshot: RAM and CPU details
 - [<img width="750" height="131" alt="image" src="https://github.com/user-attachments/assets/62ecbfa6-4cac-4ddb-b363-1cc1778da4d8" />
  ] Screenshot: Free disk space
-- [<img width="359" height="202" alt="image" src="https://github.com/user-attachments/assets/1c891de4-24ec-4188-9795-0a98de781f0e" />
-] Screenshot: Internet speed test result
+- <img width="1192" height="640" alt="image" src="https://github.com/user-attachments/assets/46c769eb-7466-4194-8007-e29f31fab82f" />
+[] Screenshot: Internet speed test result
 - [<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0363cbec-cf88-42a2-adb7-94ae37e8114d" />
 ] Screenshot: Admin rights confirmed
 
