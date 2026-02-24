@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | ( Windows 10 ) |
+| OS Build / Version |10945.6456|
+| RAM | (8 GB) |
+| CPU Model | ( Intel Core i5-4300U ) |
+| CPU Cores | 190GHz |
+| Free Disk Space | (127 GB free) |
+| Internet Speed (Download) | (159.2) |
 
 ---
 
